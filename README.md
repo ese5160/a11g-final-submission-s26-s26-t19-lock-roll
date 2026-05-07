@@ -61,6 +61,7 @@ The ESE5160 course offers a complete learning process for design and verificatio
 ### 2.6 Project Links
 
 [Node-RED URL] (http://20.112.79.126:1880/dashboard/page1)
+
 [PCBA on Altium 365] (https://upenn-eselabs.365.altium.com/designs/A8930AD8-77C0-46F9-A2AB-914F3C5A8D92)
 
 ## 3. Hardware & Software Requirements
@@ -159,11 +160,14 @@ The ESE5160 course offers a complete learning process for design and verificatio
 
 Do *not* commit any of your source code to this repository. Rather, provide links to the other GitHub repository you've already been using with your firmware.
 
-- A link to your final embedded C firmware codebases
-[firmware_codebases] (https://github.com/ese5160/final-project-firmware-s26-t19-lock-roll-1.git)
+- A link to my final embedded C firmware codebases
+https://github.com/ese5160/final-project-firmware-s26-t19-lock-roll-1.git
 
-- A link to your Node-RED dashboard code
-[Node-RED_dashboard_code] (https://github.com/ese5160/a11g-final-submission-s26-s26-t19-lock-roll.git)
+- A link to my Node-RED dashboard code
+https://github.com/ese5160/a11g-final-submission-s26-s26-t19-lock-roll.git
+
+- A link to my project webpage
+https://ese5160.github.io/a11g-final-submission-s26-s26-t19-lock-roll/
 
 - Links to any other software required for the functionality of your device
 N/A
